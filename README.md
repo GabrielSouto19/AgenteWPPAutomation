@@ -1,6 +1,6 @@
 # WPP Bot IA
 
-Este projeto implementa um chatbot inteligente para WhatsApp, utilizando Flask, LangChain, Groq, ChromaDB e Docker. O bot responde perguntas sobre o conteúdo do material "Aula 10 - Interface gráfica com Flet II", utilizando busca vetorial e IA generativa.
+Este projeto implementa um chatbot inteligente para WhatsApp, utilizando Flask, LangChain, Groq, ChromaDB e Docker. O bot responde perguntas sobre o conteúdo do material "Aula 10 - Interface gráfica com Flet II", utilizando busca vetorial e IA generativa. que nada mais é do que um pdf para servir como fonte de conhecimento, você pode inserir qualquer pdf que sirva como base de conhecimento.
 
 ---
 
