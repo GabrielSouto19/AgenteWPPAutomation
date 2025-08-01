@@ -38,7 +38,7 @@ wpp_bot_ia/
 
 1. **Clone o repositório**
    ```sh
-   git clone <url-do-repositorio>
+   git clone https://github.com/GabrielSouto19/AgenteWPPAutomation.git
    cd wpp_bot_ia
    ```
 
